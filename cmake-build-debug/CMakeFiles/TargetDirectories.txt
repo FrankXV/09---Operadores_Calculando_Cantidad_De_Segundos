@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Calculando_Cantidad_De_Segundos/cmake-build-debug/CMakeFiles/Operadores_Calculando_Cantidad_De_Segundos.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Calculando_Cantidad_De_Segundos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Calculando_Cantidad_De_Segundos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
